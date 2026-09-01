@@ -8,7 +8,7 @@
 
 ## Resources
 
-- 📄 Full Paper (`paper.pdf`)
+- 📄 Full Paper (`ArticleFlExperiments.pdf`)
 - 🖼 Poster (`poster.pdf`)
 
 ## Abstract
